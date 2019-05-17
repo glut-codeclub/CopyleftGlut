@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login UI</string>
+    <string name="tab_academic">学籍中心</string>
+    <string name="tab_skillexam">等级考试</string>
+    <string name="tab_score">成绩管理</string>
+    <string name="tab_course">课程</string>
+    <string name="tab_progress">学分进度</string>
+</resources>

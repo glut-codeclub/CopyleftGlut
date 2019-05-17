@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--item -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <!-- 名称 -->
+    <TextView
+        android:id="@+id/attr"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content" />
+    <!-- 电话 -->
+    <TextView
+        android:id="@+id/val"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <!-- 存款 -->
+</LinearLayout>
+
